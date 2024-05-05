@@ -1,3 +1,3 @@
-reload "user.plugins"
-reload "user.options"
-reload "user.keymaps"
+require "user.plugins"
+require "user.options"
+require "user.keymaps"
